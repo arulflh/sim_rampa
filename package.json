@@ -1,0 +1,8 @@
+{
+  "name": "sim-rampa",
+  "private": true,
+  "workspaces": [
+    "frontend",
+    "backend"
+  ]
+}
